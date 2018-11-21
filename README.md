@@ -54,7 +54,7 @@ To server these static pages you can for example:
   ```
 * change `root` directive in `/etc/nginx/sites-available/default` to:
   ```
-  root /home/MY_USER/awestruct-boostrap-example/_site/;
+  root /home/MY_USER/awestruct-bootstrap-example/_site/;
   ```
   
   > NOTE: replace `MY_USER` with your unprivileged username.
