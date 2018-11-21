@@ -12,8 +12,8 @@ sudo apt-get install -y ruby-dev bundler git nodejs
 
 Now checkout this project (as unprivileged Linux user):
 ```bash
-git clone https://github.com/hpaluch-pil/awestruct-boostrap-example.git
-cd awestruct-boostrap-example/
+git clone https://github.com/hpaluch-pil/awestruct-bootstrap-example.git
+cd awestruct-bootstrap-example/
 ```
 
 For the 1st time install bundler packages:
@@ -75,6 +75,6 @@ To server these static pages you can for example:
 # Resources
 
 * Official Awestruct site: http://awestruct.org/
-* How to fix missing boostrap styles: https://github.com/awestruct/awestruct/issues/530#issuecomment-280930190
+* How to fix missing bootstrap styles: https://github.com/awestruct/awestruct/issues/530#issuecomment-280930190
 
 
