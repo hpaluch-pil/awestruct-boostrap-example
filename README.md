@@ -37,7 +37,7 @@ see welcome page styled in bootstrap.
 
 # Running awestruct in generator mode
 
-To generate static pages (to be server by `apache2` or `nginx` webserver)
+To generate static pages (to be served by `apache2` or `nginx` webserver)
 use this command:
 ```bash
 bundler exec awestruct -g -u YOUR_SITE_URL
@@ -46,7 +46,7 @@ bundler exec awestruct -g -u YOUR_SITE_URL
 Where `YOUR_SITE_URL` is full url of your site including trailing slash `/`,
 for example: `http://192.168.56.101/`
 
-To server these static pages you can for example:
+To serve these static pages you can for example:
 * install nginx using command:
   
   ```bash
